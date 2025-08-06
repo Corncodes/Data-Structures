@@ -51,16 +51,16 @@ YT:
 
 - (Claude/ChatGPT/Grok) assists with grasping concepts, explaining examples in football terms, specifically liking the GPT Learn feature
 
-**Coding Interview** (HackerRank, LeetCode)
+**Coding Interview**
 
 
-- HackerRank 3 Month Preparation Kit consists of 7 questions plus a Mock Test a week for 13 weeks:
+HackerRank 3 Month Preparation Kit consists of 7 questions plus a Mock Test a week for 13 weeks:
 
-https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
+- https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 
-- LeetCode Top 150 Interview ?'s:
+LeetCode Top 150 Interview ?'s:
 
-https://leetcode.com/studyplan/top-interview-150/
+- https://leetcode.com/studyplan/top-interview-150/
 
 
 
